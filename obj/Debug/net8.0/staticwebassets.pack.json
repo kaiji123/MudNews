@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kai Ji\\Desktop\\products\\upwork-test\\mudnews\\MudNews\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Kai Ji\\Desktop\\products\\upwork-test\\mudnews\\MudNews\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MudNews.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MudNews.props",
+      "PackagePath": "build\\MudNews.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MudNews.props",
+      "PackagePath": "buildMultiTargeting\\MudNews.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MudNews.props",
+      "PackagePath": "buildTransitive\\MudNews.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
